@@ -12,7 +12,10 @@ mkdir blog-des-laureats
 cd blog-des-laureats
 ```
 ### Création du fichier .gitignore
+```
 touch .gitignore
+ni (New-Item -Path ".gitignore" -ItemType File)
+```
 ### Initialisation du dépôt Git
 ```
 git init
