@@ -34,7 +34,7 @@ Ce projet s'appuie sur la méthode par imitation pour guider l'apprenant pas à 
 ## 3. Stack technique et Architecture
 - **Framework Backend** : Laravel 12 (PHP).
 - **Architecture logicielle** : Architecture en 2 couches (Contrôleur mince -> Classe Service).
-- **Frontend & Vues** : Gabarits Blade responsives, HTML5, CSS3, JavaScript.
+- **Frontend & Vues** : Gabarits Blade responsives, HTML5, CSS3, Alpine.js, Tailwind CSS, Preline UI.
 - **Base de données** : MySQL.
 - **Modélisation** : Diagramme de contexte et cas d'utilisation avec Mermaid.
 - **Gestion de versions & Outils** : Git et GitHub CLI (`gh`).
